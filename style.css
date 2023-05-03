@@ -82,11 +82,11 @@ a:hover{
     transition: 0.3s;
 }
 
-#name1{
+#hobby{
     position: relative;
     right: 70px;
 }
 
-#name1:hover{
+#hobby:hover{
     color: rgb(144, 239, 164);
 }
